@@ -8,6 +8,11 @@ O projeto consiste em desenvolver um aplicativo para visualização de filmes, u
 - http://phobic-heat.surge.sh/
 - https://api-cinema-10d15.firebaseapp.com/
 
+##Requisitos técnicos
+
+O aplicativo deve ser desenvolvido utilizando o React Native.
+Utilize o Expo para facilitar rodarmos o seu projeto.
+
 O aplicativo deve ter, no mínimo, as seguintes funcionalidades:
 
 ## Requisitos mínimos:
@@ -29,8 +34,6 @@ O aplicativo deve ter, no mínimo, as seguintes funcionalidades:
 - Tela de configurações para permitir que o usuário configure algumas opções como idioma e ordem de exibição.
 
 ## Observações
-
-- Utilize o Expo para facilitar rodarmos o seu projeto.
 - Ao finalizar o teste, publique o código em um repositório do Github e envie o link para nós.
 - Não se esqueça de incluir instruções claras de como executar o aplicativo no arquivo README do seu repositório.
 - Caso tenha dúvidas sobre o teste, entre em contato conosco.
