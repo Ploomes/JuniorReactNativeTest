@@ -4,7 +4,7 @@ Olá! Parabéns por ter chego até aqui. Abaixo você encontrará o teste práti
 
 ## Descrição do projeto
 
-O projeto consiste em desenvolver um aplicativo para visualização de filmes, utilizando a API pública "https://developers.themoviedb.org/3". Para vocês terem uma melhor ideia de como funciona a API, podem dar uma olhada nestes 2 projetos: 
+O projeto consiste em desenvolver um aplicativo para visualização de filmes, utilizando a API pública "https://developers.themoviedb.org/3". Para ter uma melhor ideia de como funciona a API, dê uma olhada nestes 2 projetos: 
 - http://phobic-heat.surge.sh/
 - https://api-cinema-10d15.firebaseapp.com/
 
