@@ -10,8 +10,8 @@ O projeto consiste em desenvolver um aplicativo para visualização de filmes, u
 
 ## Requisitos técnicos
 
-O aplicativo deve ser desenvolvido utilizando o React Native.
-Utilize o Expo para facilitar rodarmos o seu projeto.
+- O aplicativo deve ser desenvolvido utilizando o React Native.
+- Utilize o Expo para facilitar rodarmos o seu projeto.
 
 O aplicativo deve ter, no mínimo, as seguintes funcionalidades:
 
